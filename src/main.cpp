@@ -38,6 +38,7 @@ void store_yaml(std::string filename){
 	names.push_back("Dude");
 	names.push_back("Bude");
 	names.push_back("Mude");
+	names.push_back("Test");
 
 	// Generating YAML
 	YAML::Emitter yaml;
